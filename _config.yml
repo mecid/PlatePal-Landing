@@ -44,7 +44,7 @@ features                                  :
     
   - title                                 : Instant Plate Analysis
     description                           : AI identifies your meal and evaluates its portions and nutritional makeup.
-    fontawesome_icon_name                 : brain
+    fontawesome_icon_name                 : crosshairs
 
   - title                                 : Portions That Make Sense
     description                           : Understand portion size through a familiar XS–XL scale instead of grams and calories.
